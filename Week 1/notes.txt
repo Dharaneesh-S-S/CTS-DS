@@ -1,0 +1,15 @@
+SRP: One class, one responsibility.
+ISP: Clients shouldn't depend on methods they don't use.
+OCP: Open for extension, closed for modification.
+LSP: Child class should replace parent without breaking behavior.
+DIP: Depend on abstractions, not concretions.
+DI: Technique to inject dependencies.
+Singleton: One instance globally.
+Factory: Creates one product type.
+Abstract Factory: Creates families of related objects.
+Builder: Handles complex object construction.
+Adapter: Makes incompatible interfaces work together.
+Facade: Simplifies a complex subsystem.
+Observer: One-to-many notification mechanism.
+Strategy: Switch algorithms at runtime.
+Constructor Injection: Immutable, testable, and recommended by Spring.
